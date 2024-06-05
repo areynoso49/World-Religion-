@@ -1,2 +1,2 @@
 # World-Religion-
-An analysis on the World religion using PostgreSQL and Tableau
+An analysis of the World religion using PostgreSQL and Tableau
